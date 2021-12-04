@@ -1,4 +1,4 @@
-# FORHAB-Guia para el desarrollo de modelos predictivos de habitat en sistemas forestales
+# FORHAB-Guía para el desarrollo de modelos predictivos de hábitat en sistemas forestales
 
 ![image](https://user-images.githubusercontent.com/67262828/109528032-3362ab00-7aac-11eb-9504-f3b743bf73ea.png)
 
