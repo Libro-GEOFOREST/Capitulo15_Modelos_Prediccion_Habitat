@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/822465992.svg)](https://zenodo.org/doi/10.5281/zenodo.12605402)
+
 # FORHAB-Guía para el desarrollo de modelos predictivos de hábitat en sistemas forestales
 
 ![image](https://user-images.githubusercontent.com/67262828/109528032-3362ab00-7aac-11eb-9504-f3b743bf73ea.png)
